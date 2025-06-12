@@ -1,0 +1,14 @@
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe -wto 910bd97064a94ceca6d92f1ccea39679 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_hex_bcd_counter_behav xil_defaultlib.tb_hex_bcd_counter xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/Amritha K Poojari/OneDrive/Desktop/fizbo/project_1/project_1.srcs/sources_1/new/logic_gates.v" Line 1. Module hex_bcd_counter doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.hex_bcd_counter
+Compiling module xil_defaultlib.tb_hex_bcd_counter
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_hex_bcd_counter_behav
